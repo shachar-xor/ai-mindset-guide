@@ -32,8 +32,8 @@ This isn't another prompt engineering tutorial. This is a framework for building
 ## Quick Start
 
 **New to AI assistants?** Start here:
-1. Read [Rule 1: Context](#rule-1-understand-and-manage-context) - This is the key insight
-2. Try [Tip 1: Help AI Help Himself](#tip-1-help-ai-help-himself) - Immediate impact
+1. Read [Rule 1: Context](./GUIDE.md#1-understand-and-manage-context) - This is the key insight
+2. Try [Tip 1: Help AI Help Himself](./GUIDE.md#1-help-ai-help-himself) - Immediate impact
 3. Use the [Quick Reference](./QUICK-START.md) - Copy-paste prompts
 
 **Experienced with AI?** Jump to:

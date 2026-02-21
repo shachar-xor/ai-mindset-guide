@@ -260,5 +260,5 @@ For now, the guide is free and open-source. If there's interest in workshops or 
 
 ---
 
-**Have a question not answered here?** [Open an issue](https://github.com/shachar-xor/ai-usage-rules-and-tips/issues) and we'll add it!
+**Have a question not answered here?** [Open an issue](https://github.com/shachar-xor/ai-mindset-guide/issues) and we'll add it!
 
