@@ -9,6 +9,9 @@ theme: jekyll-theme-cayman
 # GitHub metadata
 repository: shachar-xor/ai-mindset-guide
 
+# Google Analytics
+google_analytics: G-9L5WTGNYK7
+
 # Plugins
 plugins:
   - jekyll-relative-links
